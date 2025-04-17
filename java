@@ -6,6 +6,9 @@ package aula_07_04.java;
 
 public class Aula_07_04 {
     public static void main(String[] args) {
+        System.out.println("Exemplo de código Java no README!");
+    }
+}
         Scanner sc = new Scanner(System.in);
         int menuOpcao, qntCompra;
         double pedido;
