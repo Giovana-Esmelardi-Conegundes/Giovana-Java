@@ -1,9 +1,10 @@
+// Giovana-Java
+// Código da Faculdade: Sistema de Pedidos para Café da Manhã
 
-
-package aula_07_04;
+package aula_07_04.java;
   import java.util.Scanner;
 
-public class Aula_07_04.java {
+public class Aula_07_04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int menuOpcao, qntCompra;
