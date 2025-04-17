@@ -1,5 +1,4 @@
-// Giovana-Java
-// Código da Faculdade: Sistema de Pedidos para Café da Manhã
+
 
 package aula_07_04;
   import java.util.Scanner;
